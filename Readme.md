@@ -17,7 +17,7 @@ O objetivo principal é colocar em prática umas das principais ferramentas do b
 
 ✅ Bootstrap(template gratuito)
 
-    [Template]()**`https://bbbootstrap.com/snippets/bootstrap-ecommerce-cart-page-template-91851305)`**
+    [Template](https://bbbootstrap.com/snippets/bootstrap-ecommerce-cart-page-template-91851305)
 
 ✅ Css
 
